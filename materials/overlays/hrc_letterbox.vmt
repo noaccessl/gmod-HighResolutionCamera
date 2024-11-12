@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	$basetexture	"overlays/hrc_letterbox"
+	$translucent	1
+}

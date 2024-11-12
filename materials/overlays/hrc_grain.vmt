@@ -1,0 +1,15 @@
+"modulate"
+{
+	"$translucent" 1
+	"$basetexture" "overlays/hrc_grain"
+	"$MOD2X" 0
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 60
+		}
+	}
+}

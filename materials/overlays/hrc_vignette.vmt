@@ -1,0 +1,6 @@
+Modulate
+{
+	$basetexture	"overlays/hrc_vignette"
+	$MOD2X			0
+	$translucent	1
+}

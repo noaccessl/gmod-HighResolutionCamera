@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/hrc/body_rgb"
+	"$bumpmap" "models/hrc/body_n"
+	"$phongexponenttexture" "models/hrc/body_e"
+
+	"$color2" "[0 0 0]"
+	"$blendtintbybasealpha" "1"
+
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongalbedotint" "1"
+	"$phongalbedoboost" "25"
+	"$phongfresnelranges" "[1 0.1 0]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "100"
+	"$rimmask" "1"
+	"$rimlightboost" "1"
+
+	"$normalmapalphaenvmapmask" "1"
+
+	"$envmap" "models/hrc/specularity_100"
+	"$envmaptint" "[0.196 0.184 0.169]"
+}
