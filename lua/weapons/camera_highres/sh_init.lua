@@ -82,7 +82,7 @@ function SWEP:MakeCameraFlash()
 		util.TraceLine( trace )
 
 		local effect = EffectData()
-		effect:SetOrigin( tr.HitPos )
+		effect:SetOrigin( trace.HitPos )
 		util.Effect( 'camera_flash', effect, true )
 
 	end
